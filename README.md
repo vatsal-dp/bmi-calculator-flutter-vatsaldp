@@ -1,4 +1,6 @@
 # BMI Calculator
 
-![Home Page](https://github.com/vatsal-dp/bmi-calculator-flutter/blob/8b240b70ec492e41e191491e18093a359e098e8f/screenshots/firstpage.png)
-![Result Page](https://github.com/vatsal-dp/bmi-calculator-flutter/blob/4e59c1f500994129772de8d761e6778e2cef39f1/screenshots/resultspage.png)
+
+Home Page             |  Results Page
+:-------------------------:|:-------------------------:
+![](https://github.com/vatsal-dp/bmi-calculator-flutter-vatsal/blob/d4b67956dbeddb2c514f8a8d1a5e9e6d4a54850f/screenshots/firstpage.png)  |  ![](https://github.com/vatsal-dp/bmi-calculator-flutter-vatsal/blob/d4b67956dbeddb2c514f8a8d1a5e9e6d4a54850f/screenshots/resultspage.png)
